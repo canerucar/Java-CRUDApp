@@ -1,4 +1,7 @@
-## Projede veritabanı olarak Oracle Database (12.2.0.1) kullanılmıştır.
+## Projede veritabanı olarak Oracle Database 12c Release 2 (12.2.0.1) kullanılmıştır.
+
+Gerekli bağlantı ayarlarını
+Java Resources > src > listeners > DatabaseListener.java'da değişiklik yaparak kendi veriitabanınıza bağlayabilirsiniz.
 
 ### Proje
 <img align="left" src="https://user-images.githubusercontent.com/25962055/89287844-55529700-d65d-11ea-8f78-b5b967770803.gif" height="600" width="800"> <br>
