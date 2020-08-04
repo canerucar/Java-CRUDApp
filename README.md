@@ -1,6 +1,10 @@
-# Projede veritabanı olarak Oracle Database (12.2.0.1) kullanılmıştır.
-### Oluşturulan tablolar
+## Projede veritabanı olarak Oracle Database (12.2.0.1) kullanılmıştır.
 
+### Proje
+<img align="left" src="https://user-images.githubusercontent.com/25962055/89287844-55529700-d65d-11ea-8f78-b5b967770803.gif" height="600" width="800"> <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### Oluşturulan tablolar
 CREATE TABLE BOOKS <br>
 ( <br>
     book_id NUMBER(5) PRIMARY KEY, <br>
